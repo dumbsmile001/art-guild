@@ -152,9 +152,16 @@
                                     <div class="w-7 h-7 rounded-full bg-purple-500/50 border-2 border-purple-900/50"></div>
                                     <div class="w-7 h-7 rounded-full bg-fuchsia-500/50 border-2 border-purple-900/50"></div>
                                     <div class="w-7 h-7 rounded-full bg-indigo-500/50 border-2 border-purple-900/50"></div>
-                                    <div class="w-7 h-7 rounded-full bg-purple-600/60 border-2 border-purple-900/50 flex items-center justify-center text-[10px] font-bold text-white">+2k</div>
+                                    <div class="w-7 h-7 rounded-full bg-purple-600/60 border-2 border-purple-900/50 flex items-center justify-center text-[10px] font-bold text-white">
+                                        @php
+                                            use App\Models\User;
+                                            $totalUsers = User::count();
+                                            $displayCount = $totalUsers >= 1000 ? round($totalUsers / 1000, 1) . 'k' : $totalUsers;
+                                        @endphp
+                                        +{{ $displayCount }}
+                                    </div>
+                                    <span class="mx-6">joined by {{ number_format($totalUsers) }} {{ $totalUsers == 1 ? 'artist' : 'artists' }} in our community</span>
                                 </div>
-                                <span>joined by 2,000+ artists this month</span>
                             </div>
                         </div>
 
