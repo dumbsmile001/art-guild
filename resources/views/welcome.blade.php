@@ -122,7 +122,7 @@
                                     <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-purple-400 opacity-75"></span>
                                     <span class="relative inline-flex rounded-full h-2 w-2 bg-purple-500"></span>
                                 </span>
-                                <span>creative community, zero ego</span>
+                                <span>draw, share, improve together</span>
                             </div>
                             <h1 class="font-display text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.1] text-white">
                                 share art,<br>
@@ -170,8 +170,8 @@
                             <div class="grid grid-cols-2 gap-4 auto-rows-min">
                                 <div class="bg-gradient-to-br from-purple-800/40 to-purple-900/40 backdrop-blur-sm rounded-3xl p-6 shadow-xl border border-purple-700/30 rotate-1 hover:rotate-0 transition-transform duration-300">
                                     <div class="text-5xl mb-3">🎨</div>
-                                    <p class="font-medium text-purple-100">"finally a place where my messy sketches are welcome"</p>
-                                    <p class="text-xs text-purple-300 mt-2">— mara, painter</p>
+                                    <p class="font-medium text-purple-100">"finally, a place where I can grow as an artist"</p>
+                                    <p class="text-xs text-purple-300 mt-2">—Isaac, digital illustrator</p>
                                 </div>
                                 <div class="bg-black/30 backdrop-blur-sm rounded-2xl p-5 shadow-xl border border-purple-800/40 -rotate-2 hover:rotate-0 transition-transform duration-300 mt-6">
                                     <div class="flex gap-1 mb-2">
@@ -180,13 +180,13 @@
                                         <span class="w-2 h-2 bg-purple-400 rounded-full"></span>
                                     </div>
                                     <div class="h-20 w-full bg-purple-900/40 rounded-xl mb-2 flex items-center justify-center text-3xl">🖌️</div>
-                                    <p class="text-xs font-medium text-gray-300">daily doodle feed</p>
+                                    <p class="text-xs font-medium text-gray-300">daily art feed</p>
                                 </div>
                                 <div class="col-span-2 bg-gradient-to-r from-purple-900/40 to-fuchsia-900/40 backdrop-blur-sm rounded-2xl p-4 flex items-center gap-3 shadow-xl border border-purple-700/30">
                                     <div class="text-3xl">✨</div>
                                     <div>
                                         <p class="font-semibold text-purple-100">no algorithms, just humans</p>
-                                        <p class="text-xs text-gray-300">your art gets seen by real people who actually care</p>
+                                        <p class="text-xs text-gray-300">your art gets seen by real people</p>
                                     </div>
                                 </div>
                                 <div class="bg-indigo-900/30 backdrop-blur-sm rounded-2xl p-4 text-center shadow-xl border border-indigo-700/30">
@@ -195,7 +195,7 @@
                                 </div>
                                 <div class="bg-purple-900/30 backdrop-blur-sm rounded-2xl p-4 text-center shadow-xl border border-purple-700/30 -rotate-1">
                                     <span class="text-2xl">💬</span>
-                                    <p class="text-xs font-medium text-purple-200">kind critiques only</p>
+                                    <p class="text-xs font-medium text-purple-200">kind critiques</p>
                                 </div>
                             </div>
                             <!-- floating blob -->
@@ -219,17 +219,17 @@
                         <div class="bg-black/30 backdrop-blur-sm rounded-3xl p-7 border border-purple-800/40 hover:bg-purple-900/20 transition group">
                             <div class="w-12 h-12 rounded-2xl bg-purple-800/60 flex items-center justify-center text-2xl mb-5 group-hover:scale-110 transition">🎨</div>
                             <h3 class="text-xl font-bold text-white mb-2">portfolio feed</h3>
-                            <p class="text-purple-200/70 text-sm leading-relaxed">post sketches, wips, finished pieces. your profile is a living sketchbook, not a sterile gallery.</p>
+                            <p class="text-purple-200/70 text-sm leading-relaxed">post sketches, wips, finished pieces.</p>
                         </div>
                         <div class="bg-black/30 backdrop-blur-sm rounded-3xl p-7 border border-purple-800/40 hover:bg-purple-900/20 transition group">
                             <div class="w-12 h-12 rounded-2xl bg-purple-800/60 flex items-center justify-center text-2xl mb-5 group-hover:scale-110 transition">👥</div>
                             <h3 class="text-xl font-bold text-white mb-2">guild circles</h3>
-                            <p class="text-purple-200/70 text-sm leading-relaxed">create or join small groups (watercolor, pixel art, ocs, etc). share works-in-progress and give <span class="italic">kind</span> feedback.</p>
+                            <p class="text-purple-200/70 text-sm leading-relaxed">create or join small groups (watercolor, pixel art, ocs, etc).</p>
                         </div>
                         <div class="bg-black/30 backdrop-blur-sm rounded-3xl p-7 border border-purple-800/40 hover:bg-purple-900/20 transition group">
                             <div class="w-12 h-12 rounded-2xl bg-purple-800/60 flex items-center justify-center text-2xl mb-5 group-hover:scale-110 transition">🪄</div>
                             <h3 class="text-xl font-bold text-white mb-2">discovery, human-curated</h3>
-                            <p class="text-purple-200/70 text-sm leading-relaxed">real people (yes, humans) spotlight hidden gems every week. no starving artist vibes.</p>
+                            <p class="text-purple-200/70 text-sm leading-relaxed">spotlight hidden gems every week.</p>
                         </div>
                     </div>
                 </div>
@@ -243,15 +243,14 @@
                     </div>
                     <figure>
                         <p class="text-2xl md:text-3xl font-medium text-gray-200 leading-relaxed max-w-3xl mx-auto">
-                            “i used to feel weird sharing my sketchy doodles online. but Art Guild feels like a cozy studio where everyone actually <span class="text-purple-300">gets it</span>.”
+                            “Art Guild is like a father, mother, brother, sister and uncle to me.”
                         </p>
                         <figcaption class="mt-6">
-                            <p class="font-semibold text-white">— Casey L., digital artist</p>
+                            <p class="font-semibold text-white">—Isaac, digital illustrator</p>
                             <p class="text-sm text-gray-400">joined 2 months ago, posted 30+ pieces</p>
                         </figcaption>
                     </figure>
-                    <div class="flex justify-center gap-1 mt-10">
-                                        </div>
+                    <div class="flex justify-center gap-1 mt-10"></div>
                 </div>
             </section>
 
@@ -280,10 +279,9 @@
                     <div class="flex items-center gap-2">
                         <div class="w-6 h-6 bg-gradient-to-br from-purple-500 to-purple-700 rounded-md rotate-6 shadow-md"></div>
                         <span class="font-display font-bold text-gray-200 text-sm">art<span class="text-purple-400">guild</span></span>
-                        <span class="text-gray-500 text-xs ml-2">a safe place for messy art</span>
+                        <span class="text-gray-500 text-xs ml-2">a safe place for artists</span>
                     </div>
                     <div class="flex gap-6 text-xs text-gray-400">
-                        <a href="#" class="hover:text-purple-300 transition">code of kindness</a>
                         <a href="#" class="hover:text-purple-300 transition">@artguild</a>
                         <span>© {{ date('Y') }} All Rights Reserved</span>
                     </div>
